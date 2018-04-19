@@ -9,3 +9,4 @@ wo jiale yiju
 yyyyy
 rename repository
 测试stash
+stash后没有stash pop，然后reset --soft
